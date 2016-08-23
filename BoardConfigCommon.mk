@@ -94,7 +94,7 @@ BOARD_USES_LEGACY_MMAP := true
 
 # SELinux policies
 # qcom sepolicy
-include device/qcom/sepolicy/sepolicy.mk
+#include device/qcom/sepolicy/sepolicy.mk
 
 # Common gproj policies
 #BOARD_SEPOLICY_DIRS += \
