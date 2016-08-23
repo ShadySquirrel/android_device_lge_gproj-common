@@ -97,6 +97,6 @@ BOARD_USES_LEGACY_MMAP := true
 include device/qcom/sepolicy/sepolicy.mk
 
 # Common gproj policies
-BOARD_SEPOLICY_DIRS += \
-        device/lge/gproj-common/sepolicy
+#BOARD_SEPOLICY_DIRS += \
+#        device/lge/gproj-common/sepolicy
 
